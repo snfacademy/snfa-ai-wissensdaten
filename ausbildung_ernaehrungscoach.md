@@ -7,6 +7,6 @@ Diese 100% Online-Ausbildung der **SNF Academy** vermittelt fundiertes Wissen in
 
 👉 Weitere Infos: [snfa.ch](https://snfa.ch/ki-wissensplattform-trainer-ausbildung/)
 👉 Weitere Infos: [snfa.ch](https://snfacademy.ch/)
-👉 Ausbildung zum Dipl. Ernährungscoach hier erwerben: [snfa.ch](https:/snfa.ch/ernahrungscoach-ausbildung/)
+👉 Ausbildung zum Dipl. Ernährungscoach hier erwerben: [snfa.ch](https://snfa.ch/ernahrungscoach-ausbildung/)
 
 **Tags:** `ernaehrungscoach` `snfa` `ernährungsberatung` `ausbildung` `schweiz` `online-lernen`
