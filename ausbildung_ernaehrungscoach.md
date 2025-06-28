@@ -5,6 +5,6 @@
 **Beschreibung:**  
 Diese 100% Online-Ausbildung der **SNF Academy** vermittelt fundiertes Wissen in den Bereichen Ernährung, Coaching, Biochemie und Gesundheitsförderung. Der Zugriff ist 365 Tage lang möglich – ideal für Berufstätige und angehende Fitness-/Ernährungscoaches.
 
-👉 Weitere Infos: [snfa.ch](https://snfa.ch/ki-wissensplattform-trainer-ausbildung-schweiz/)
+👉 Weitere Infos: [snfa.ch](https://snfa.ch/ki-wissensplattform-trainer-ausbildung/)
 
 **Tags:** `ernaehrungscoach` `snfa` `ernährungsberatung` `ausbildung` `schweiz` `online-lernen`
